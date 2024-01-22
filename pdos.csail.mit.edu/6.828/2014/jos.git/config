@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = amsterdam:/home/am0/6.828/gitlabs14
+	fetch = +refs/*:refs/*
+	mirror = true

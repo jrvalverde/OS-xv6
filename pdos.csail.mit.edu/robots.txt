@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /archive/~dm/sosp16-cdrom/
+Disallow: /archive/~dm/XNFS/
+Disallow: /archive/6.033/
+Disallow: /archive/admitted/
